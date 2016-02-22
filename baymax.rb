@@ -8,6 +8,6 @@ class Baymax < Formula
   depends_on :x11 
 
   def install
-    bin.install "create_project.sh"
+    bin.install "create_project"
   end
 end
