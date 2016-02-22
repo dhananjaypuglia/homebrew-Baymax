@@ -12,5 +12,6 @@ class Baymax < Formula
     prefix.install Dir["Source"]
     prefix.install "new_project.rb"
     prefix.install "create_project.sh"
+    prefix.install "jenkins"
   end
 end
