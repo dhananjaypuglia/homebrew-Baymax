@@ -16,7 +16,7 @@ class Baymax < Formula
     # ENV.deparallelize  # if your formula fails when building in parallel
 
     # Remove unrecognized options if warned by configure
-    bin.install "create_project"
+    bin.install "create_project.sh"
   end
 
   test do
