@@ -3,7 +3,7 @@ class Baymax < Formula
   homepage ""
   url "http://githuben.intranet.mckinsey.com/Appify/Baymax/archive/1.0.0.tar.gz"
   version "1.0.0"
-  sha256 "48eb818ac520c2586c4757e5cda0921bc358ab32ccc751eb4e7fc167a2c1086c"
+  sha256 "3e759fa5ce717d1c2523fe88ba9f379f4a8aa7ca66fe8a153c3bd5b4f823b89b"
 
   depends_on :x11 
 
