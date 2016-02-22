@@ -8,6 +8,9 @@ class Baymax < Formula
   depends_on :x11 
 
   def install
-    bin.install "create_project"
+    bin.install "Baymax"
+    prefix.install Dir["Source"]
+    prefix.install "new_project.rb"
+    prefix.install "create_project.sh"
   end
 end
