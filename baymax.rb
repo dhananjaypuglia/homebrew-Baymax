@@ -4,6 +4,7 @@ class Baymax < Formula
   url "http://githuben.intranet.mckinsey.com/Appify/Baymax/archive/1.0.0.tar.gz"
   version "1.0.0"
   sha256 "430ba33b689a3b770fdf1d485e6566507342aadc2c2258665da57ced3e4ce113"
+  depends_on :x11 
   def install
     bin.install "Baymax"
     prefix.install Dir["Source"]
