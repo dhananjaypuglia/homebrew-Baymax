@@ -14,6 +14,10 @@ You can run baymax any time from you command line by using command
 ```
 baymax
 ````
+## Output
+ 
+ Your Project will be created in Output folder relative to the directory where the script runs.
+
 
 ## Help
 
