@@ -10,6 +10,10 @@ You need to have homebrew to install baymax.
 brew tap dhansiddh/Baymax
 brew install Baymax
 ```
+You can run baymax any time from you command line by using command
+```
+baymax
+````
 
 ## Help
 
