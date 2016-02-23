@@ -18,10 +18,10 @@ baymax
 ## Help
 
 1. Permission denied while running baymax
-```
-chmod +x /usr/local/Cellar/baymax/1.0.0/bin/Baymax
-```
+   ```
+   chmod +x /usr/local/Cellar/baymax/1.0.0/bin/Baymax 
+   ```
 2. Gem xcodeproj not found
-```
-gem install 'xcodeproj'
-```
+   ```
+   gem install 'xcodeproj'
+   ```
