@@ -5,8 +5,6 @@ class Baymax < Formula
   version "1.0.0"
   sha256 "85563312464260427b937506335f066e46d2f8bd2f85704ad3bda3c4f4d0ad7b"
 
-  depends_on :x11 
-
   def install
     bin.install "Baymax"
     prefix.install Dir["Source"]
