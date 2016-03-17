@@ -1,9 +1,9 @@
 class Baymax < Formula
   desc ""
   homepage ""
-  url "http://githuben.intranet.mckinsey.com/Appify/Baymax/archive/1.0.0.tar.gz"
+  url "http://githuben.intranet.mckinsey.com/Appify/Baymax/archive/1.0.1.tar.gz"
   version "1.0.0"
-  sha256 "430ba33b689a3b770fdf1d485e6566507342aadc2c2258665da57ced3e4ce113"
+  sha256 "1dac91d36b766de9954fe9b503f195bdbd470e3decd9c4f1b0477ea7e37a5b52"
   depends_on :x11 
   def install
     bin.install "Baymax"
